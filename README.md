@@ -1,4 +1,4 @@
-# Tsukihi-Master
+# Tsukihi
 
 Chat bot for discord providing a wide variety of features such as:
 - Administration tools
